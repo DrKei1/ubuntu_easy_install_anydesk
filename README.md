@@ -9,8 +9,12 @@ Select <b>lightdm</b> on installing proccess.<br>
 <img src="https://github.com/DrKei1/ubuntu_easy_install_anydesk/blob/main/select-lightdm.jpg?raw=true">
 
 # Code:
-<b>short code:</b></br>
+<b>Auto:</b></br>
 <code>bash <(curl -Ls https://raw.githubusercontent.com/DrKei1/ubuntu_easy_install_anydesk/master/install.sh)</code><br>
+<br>
+new username=user1<br>
+Anydesk Password=xAbNc@2cz<br>
+  
 <b>Manual:</b><br>
 in line 1 of the below code, change user and password(anydesk) to your liking then copy all strings to terminal:<br><br>
 <code>
