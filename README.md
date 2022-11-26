@@ -16,6 +16,6 @@ USER=user1; PASS=xAbNc@2cz; sudo adduser $USER; sudo adduser $USER sudo;sudo apt
 
 # Login with LXDE:
 after reboot, login with anydesk, and select LXDE:<br>
-<img src="https://github.com/DrKei1/ubuntu_easy_install_anydesk/blob/main/anydesk_set_lxde.jpg?raw=true">
+<img src="https://github.com/DrKei1/ubuntu_easy_install_anydesk/blob/main/anydesk-set-lxde.jpg?raw=true">
 
 
