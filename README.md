@@ -3,7 +3,7 @@ a short script for easy install anydesk on ubuntu server with lxde
 
 # IMPORTANT Tips:
 1-in line 1 of the below code, change user and password (anydesk) then copy all strings to terminal.<br>
-2-<b>IMPORTANT Warning:</b> select <b>lightdm</b> on installing proccess.
+2-<b>IMPORTANT Warning:</b> select <b>lightdm</b> on installing proccess.<br>
 <img src="https://github.com/DrKei1/ubuntu_easy_install_anydesk/blob/main/select-lightdm.jpg?raw=true">
 
 #-----------------------------------------------------
