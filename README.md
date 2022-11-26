@@ -6,7 +6,7 @@ tested on ubuntu 20.04
 
 # IMPORTANT Tip:
 Select <b>lightdm</b> on installing proccess.<br>
-<img src="https://github.com/DrKei1/ubuntu_easy_install_anydesk/blob/main/select-lightdm.jpg?raw=true">
+<img src="https://github.com/DrKei1/ubuntu_easy_install_anydesk/blob/main/anydesk-set-lxde.jpg?raw=true">
 
 # Code:
 in line 1 of the below code, change user and password(anydesk) to your liking then copy all strings to terminal:<br><br>
