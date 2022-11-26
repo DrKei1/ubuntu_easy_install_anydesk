@@ -9,7 +9,7 @@ Select <b>lightdm</b> on installing proccess.<br>
 <img src="https://github.com/DrKei1/ubuntu_easy_install_anydesk/blob/main/select-lightdm.jpg?raw=true">
 
 # Code:
-<b>Auto:</b></br>
+<b>Auto Install:</b></br>
 <code>bash <(curl -Ls https://raw.githubusercontent.com/DrKei1/ubuntu_easy_install_anydesk/master/install.sh)</code><br>
 <br>
 new username=user1<br>
