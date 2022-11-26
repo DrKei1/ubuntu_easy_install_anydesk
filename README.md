@@ -3,7 +3,7 @@
 solved errors:
 desk_rt_ipc_error, display_server_not_supported anydesk.
 
-# IMPORTANT Tips:
+# IMPORTANT Tip:
 Select <b>lightdm</b> on installing proccess.<br>
 <img src="https://github.com/DrKei1/ubuntu_easy_install_anydesk/blob/main/select-lightdm.jpg?raw=true">
 
