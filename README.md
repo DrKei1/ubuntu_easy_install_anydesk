@@ -1,5 +1,5 @@
 # ubuntu_easy_install_anydesk
-a short script for easy install anydesk on ubuntu server with lxde
+a short script for easy install anydesk on ubuntu server with LXDE
 
 # IMPORTANT Tips:
 <b>IMPORTANT Warning:</b> select <b>lightdm</b> on installing proccess.<br>
