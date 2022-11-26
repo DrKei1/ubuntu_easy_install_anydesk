@@ -1,7 +1,8 @@
 # ubuntu_easy_install_anydesk
 <b>a short script for easy install anydesk on ubuntu server with LXDE</b><br>
 solved errors:
-desk_rt_ipc_error, display_server_not_supported anydesk.
+desk_rt_ipc_error, display_server_not_supported anydesk.<br>
+tested on ubuntu 20.04
 
 # IMPORTANT Tip:
 Select <b>lightdm</b> on installing proccess.<br>
