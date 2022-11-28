@@ -42,4 +42,4 @@ after reboot, login with anydesk, and select LXDE:<br>
 
 # Additionals
 <b>Auto Install anydesk and brave browser:</b><br>
-<code>bash <(curl -Ls https://raw.githubusercontent.com/DrKei1/ubuntu_easy_install_anydesk/master/install_anydesk_with_brave.sh)</code>
+<pre>bash <(curl -Ls https://raw.githubusercontent.com/DrKei1/ubuntu_easy_install_anydesk/master/install_anydesk_with_brave.sh)</pre>
