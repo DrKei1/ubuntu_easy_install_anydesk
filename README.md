@@ -14,7 +14,9 @@ copy below code and paste in terminal. at first you need set password.<br>
 <br>
 new username=user1<br>
 Anydesk Password=xAbNc@2cz<br>
-  
+
+# Get Anydesk ID
+<code>anydesk --get-id; echo "\n";</code><br>
 # Manual: 
 in line 1 of the below code, change user and password(anydesk) to your liking then copy all strings to terminal:<br><br>
 <code>
