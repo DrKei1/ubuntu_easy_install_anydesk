@@ -16,7 +16,7 @@ new username=user1<br>
 Anydesk Password=xAbNc@2cz<br>
 
 # Get Anydesk ID
-<code>anydesk --get-id; echo "\n";</code><br>
+<code>anydesk --get-id; echo '';</code><br>
 
 # Manual Install: 
 in line 1 & 2 of the below code, change user and password(anydesk) to your liking then copy all strings to terminal:<br><br>
