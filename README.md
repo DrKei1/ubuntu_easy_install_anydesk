@@ -45,5 +45,5 @@ after reboot, login with anydesk, and select LXDE:<br>
 <pre>bash <(curl -Ls https://raw.githubusercontent.com/DrKei1/ubuntu_easy_install_anydesk/master/install_anydesk_with_brave.sh)</pre>
 
 # Change Password
-change <b>A123456</b> in below line:<br>
-<pre>echo A123456 | anydesk --set-password;</pre>
+change <b>A123456</b> in below line and enter it in terminal:<br>
+<code>echo A123456 | anydesk --set-password;</code>
